@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 351px;
+    height: 113px;
+}
+p{
+    font-size: 18px;
+}
+.header{
+    background-color: rgb(226, 226, 226);
+    margin-left: 30px;
+    margin-right: 30px;  
+    margin-bottom: 8px;
+}
+.description{
+    text-align: center;
+}
+.searching{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.btn{ 
+ display: flex;
+ justify-content: center;  
+}
+button.btn__google{
+    margin-right: 7px;
+}
+.main{
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.block1{
+    background-color: rgb(140, 231, 231);
+    width:40%;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 8px;
+    margin-right: 5px;
+}
+.block1 p{
+    text-align: center;
+}
+.block1 a{
+    display: block;
+    text-align: center;
+}
+.block2{
+    background-color: rgb(95, 197, 192);
+    width:20%;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-right: 5px;
+}
+.block2 a{
+    display: block;
+    text-align: center;
+}
+.block3{
+    background-color: rgb(56, 143, 138);
+    width: 40%;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    display: block;
+}
+.block3 p{
+    text-align: center;
+    
+}
+.subscribe{
+    text-align: center; 
+    margin-right: 10px; 
+}
+.block3 a{
+    font-size: 13px;
+}
+a{
+    color: blue;
+}
+.footer{
+    padding-top: 25px;
+    text-align: center;
+}

@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    text-align: center;
+}
+.header .shopname{
+    color:red;
+    margin-bottom: 20px;
+}
+.header a{
+    justify-content: center;
+    display: inline-block;
+    padding: 5px;
+}
+.main{
+    text-align: center;
+}
+.main h1{
+    margin-top: 15px;
+    color: purple;
+    margin-bottom: 15px;
+}
+.main h3{
+    color:gold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.mainabout h1{
+    margin-top: 15px;
+    color:purple;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.mainabout p{
+    margin-bottom: 15px;
+}
+.mainabout h5{
+    color: goldenrod;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.mainproduct{
+    text-align: center;
+}
+.mainproduct h1{
+    color:purple;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.picture {
+    width: 200px !important;
+}
