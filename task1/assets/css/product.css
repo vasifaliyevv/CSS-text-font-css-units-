@@ -14,16 +14,14 @@
     display: inline-block;
     padding: 5px;
 }
-.main{
+.mainproduct{
     text-align: center;
 }
-.main h1{
+.mainproduct h1{
+    color:purple;
     margin-top: 15px;
-    color: purple;
     margin-bottom: 15px;
 }
-.main h3{
-    color:gold;
-    margin-top: 10px;
-    margin-bottom: 10px;
+.picture {
+    width: 200px !important;
 }
